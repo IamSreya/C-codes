@@ -1,0 +1,7 @@
+/*
+A B C D E
+  B C D E
+    C D E
+      D E
+        E
+*/
